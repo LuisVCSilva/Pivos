@@ -1,6 +1,6 @@
 # Pivos
 
-Um projeto de Tópicos 3 que recupera imagens de satélite da Google Maps API e detecta pivôs de irrigação nas imagens obtidas.
+Um projeto de Tópicos 3 que recupera imagens de satélite da Google Maps API e detecta pivôs de irrigação nas imagens obtidas utilizando a Transformada de Hough.
 
 Ferramentas:
  - Python 3.6

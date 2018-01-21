@@ -1,0 +1,4 @@
+python teste.py --online --idGoogle $(cat key.txt) --area [coordenadas] -df 0.0005 -chc cacheWeb
+python teste.py --offline -raw raw -pre pre -seg seg -fin detections --createVideo --fps 15
+
+coordenadas = -16.933107,-47.678304 -16.992957,-47.611670 [p1 p4]
